@@ -7,7 +7,8 @@
 
 <h3 align="left">⚙️ GitHub Analytics</h3>
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=davi-gsouza&color=blue" alt="Profile views" /> <br />
+  <img src="https://komarev.com/ghpvc/?username=davi-gsouza&color=blue&style=flat&abbreviated=true" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Open_to_work-Yes-blue" alt="" /> <br />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-gsouza&layout=compact&langs_count=7&theme=algolia" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=davi-gsouza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
 </div> <br />
